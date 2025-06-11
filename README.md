@@ -1,4 +1,4 @@
-Task 8: K-Means Clustering - Customer Segmentation
+Task 8: K-Means Clustering - Customer Segmentation (ELEVATE LABS AIML INTERNSHIP MAY-2025)
 
 This project applies K-Means Clustering to the Mall_Customers dataset to identify customer segments based on Annual Income and Spending Score.
 
